@@ -88,6 +88,13 @@
       "tagline": "I am a Computer Science undergraduate @ Carnegie Mellon University. I am passionate about technology and quantitative finance and I enjoy building cool applications!",
       "experiences": [
         {
+          "id": "0",
+          "dates": "Citadel Securities",
+          "type": "June 2024 - Present",
+          "position": "Software Engineering Intern",
+          "bullets": ["Created python tool that speeds up data ingestion pipeline for regulatory data by 50x.", "Implemented amendment tool that allows desks to amend tens of millions of erroneous transaction records in half the time."]
+        },
+        {
           "id": "1",
           "dates": "Amazon Inc.",
           "type": "June 2023 - August 2023",
